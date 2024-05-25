@@ -1,7 +1,7 @@
 # AquaFish-AI
 Deep Learning course - Final project
 
-This repository contains the implementation of the paper " EARLY WARNING FOR INVASIVE FISHES: PROTECTING THE MEDITERRANEAN THROUGH AI-POWERED IMAGE CLASSIFICATION "
+This repository contains the implementation of the paper " EARLY WARNING FOR INVASIVE FISHES: PROTECTING THE MEDITERRANEAN THROUGH AI-POWERED IMAGE CLASSIFICATION " by Lior Ben Ishay and Keren Druker
 
 # Fish Detection and Classification
 This repository contains code for detecting and classifying fish species using YOLOv9 object detection and transfer learning on pre-trained models for classification. The code is written in Python and utilizes PyTorch, Roboflow, and other popular libraries.
