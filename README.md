@@ -38,12 +38,13 @@ This repository contains code for detecting and classifying fish species using Y
 
 
 
-Contributing
+### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License.
-Acknowledgments
+
+### Acknowledgments
 
 YOLOv9 by SkalskiP
 PyTorch
