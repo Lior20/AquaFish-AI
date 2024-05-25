@@ -14,7 +14,7 @@ This repository contains code for detecting and classifying fish species using Y
 - Visualization of training results, confusion matrix, and sample detections
 
 ### Fish Classification
-- Fish classification using transfer learning on pre-trained models (DenseNet, GoogLeNet, ResNet, ViT, VGG)
+- Fish classification using transfer learning on pre-trained models (DenseNet, GoogLeNet, ResNet, VGG)
 - Training and evaluation scripts for the classification task
 - Visualization of training logs, confusion matrices, and sample predictions
 
