@@ -46,7 +46,7 @@ This project is licensed under the MIT License.
 
 ### Acknowledgments
 
-YOLOv9 by SkalskiP
-PyTorch
-Roboflow
+YOLOv9 by SkalskiP, 
+PyTorch, 
+Roboflow, 
 FDFML Dataset by Swinburne University of Technology
