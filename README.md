@@ -23,18 +23,18 @@ This repository contains code for detecting and classifying fish species using Y
 1. Clone the repository:
 
 git clone https://github.com/Lior20/AquaFish-AI.git
-cd AquaFish-AI
+  cd AquaFish-AI
 
 2. Prepare the dataset:
 
-For detection, follow the instructions in the Copy_of_Detector_YOLOv9_Fish_NoFish.ipynb notebook to download the dataset from Roboflow.
-For classification, download the FDFML dataset and update the paths in the fish_classifier_2 - Copy.ipynb notebook.
+  For detection, follow the instructions in the Copy_of_Detector_YOLOv9_Fish_NoFish.ipynb notebook to download the dataset from Roboflow.
+  For classification, download the FDFML dataset and update the paths in the fish_classifier_2 - Copy.ipynb notebook.
 
 
 3. Run the notebooks:
 
-Fish Detection: Copy_of_Detector_YOLOv9_Fish_NoFish.ipynb
-Fish Classification: fish_classifier_2 - Copy.ipynb
+  Fish Detection: Detector.ipynb
+  Fish Classification: fish_classifier.ipynb
 
 
 
