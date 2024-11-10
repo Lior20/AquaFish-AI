@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team
 - Roboflow platform
 - FDFML Dataset by Swinburne University of Technology
-- Tel Aviv University Department of Electrical Engineering
+- Tel Aviv University Department of Electrical Engineering 
 
 ## 📝 Citation
 
