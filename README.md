@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ### Dataset Preparation
 
 #### For Detection:
-1. Navigate to `Detector.ipynb`
+1. Navigate to `Detector.ipynb`.
 2. Follow instructions to download the dataset from Roboflow
 3. Configure paths as needed
 
